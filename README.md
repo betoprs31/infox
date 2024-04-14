@@ -1,4 +1,7 @@
-![GitHub](https://img.shields.io/github/license/professorjosedeassis/infoX)
+![GitHub repo size](https://img.shields.io/github/repo-size/betoprs31/infoX?style=flat)
+![GitHub License](https://img.shields.io/github/license/betoprs31/infoX)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/betoprs31?style=social&label=Seguir)
+
 
 # ☕ Java MySQL - Sistema OS
 Sistema OS é um sistema desktop(Windows, Linux ou MAC) para gestão de ordem de serviços de uma assistência técnica de computadores, notebooks e periféricos.
